@@ -3,14 +3,14 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "A basic skill made from Alexa Skills Kit template",
+          "summary": "An Alexa assistant for managing the front desk",
           "examplePhrases": [
-            "Alexa open hello python",
-            "Alexa tell hello python hello",
-            "Alexa ask hello python say hello"
+            "Alexa open reception",
+            "Alexa tell reception hello",
+            "Alexa ask reception hello"
           ],
-          "name": "hello python",
-          "description": "A basic skill made from Alexa Skills Kit template"
+          "name": "reception",
+          "description": "An Alexa assistant for managing the front desk"
         }
       },
       "isAvailableWorldwide": true,
